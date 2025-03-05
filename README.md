@@ -19,6 +19,12 @@
 
 ![Diagrama del proyecto](https://github.com/AlejandroLog/DiagramasScannerFruit/blob/69344297410cb98da110047019237337a0a97b24/DiagramaInterfaces.jpg)
 
+
+## 🖥️ Diagrama de Base de Datos 🎨
+📌 **Descripción:** Diagrama de Base de datos en SQL Server. 📲
+
+![Diagrama del proyecto](https://github.com/AlejandroLog/DiagramasScannerFruit/blob/f7024a2bf8a321a2032bfd61ab448703a619cae1/BDFruitScanner.jpg)
+
 ---
 
 🚀 **Estos diagramas son clave para la comprensión y desarrollo de Scanner Fruit. Ayudan a visualizar la arquitectura y funcionalidades del sistema de manera clara y organizada.** 🍏📊
